@@ -49,4 +49,4 @@ Use grid to position cards differently based on screen size.
 Grid template areas are good for grid layouts that change and for layouts that are harded to mainpulate other grid tools.
 
 ## Author
-- Frontend Mentor - [https://www.frontendmentor.io/profile/djmills89]Daniel Mills
+- Frontend Mentor - [https://www.frontendmentor.io/profile/djmills89] Daniel Mills
