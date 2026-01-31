@@ -42,14 +42,14 @@ body {
 }
 
 .text-preset-1 {
-    font-size: var(--fs-1);
+    font-size: var(--fs-2);
     font-weight: var(--fw-semi-bold);
     line-height: var(--lh-2);
     letter-spacing: var(--ls-1);
 }
 
 .text-preset-2 {
-    font-size: var(--fs-1);
+    font-size: var(--fs-2);
     font-weight: var(--fw-ex-light);
     line-height: var(--lh-2);
     letter-spacing: var(--ls-1);
@@ -83,4 +83,20 @@ body {
     font-weight: var(--fw-ex-light);
     line-height: var(--lh-2);
     letter-spacing: var(--ls-1);
+}
+
+@media (min-width: 768px) {
+    .text-preset-1 {
+        font-size: var(--fs-1);
+        font-weight: var(--fw-semi-bold);
+        line-height: var(--lh-2);
+        letter-spacing: var(--ls-1);
+    }
+
+    .text-preset-2 {
+        font-size: var(--fs-1);
+        font-weight: var(--fw-ex-light);
+        line-height: var(--lh-2);
+        letter-spacing: var(--ls-1);
+    }
 }
